@@ -1,1 +1,1 @@
- 
+This is my first time using git and command shell to open notepads like this! big moment we are going to make it!!!!
